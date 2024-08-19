@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://boydj.cool</loc>
+	<lastmod>2024-08-19</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://boydj.cool/img/boy-dj-background.jpg</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://boydj.cool/img/277B12E5-C735-4EE8-906D-2F9012E9A7E9.jpg</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://boydj.cool/press-kit.html</loc>
+	<lastmod>2024-08-19</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://boydj.cool/img/boy-dj-rock.jpg</image:loc>
+	<image:title>boy dj-desert-2.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://boydj.cool/img/18A7BCD5-26AF-4ADF-B759-24B36E77C46B.jpg</image:loc>
+	<image:title>18A7BCD5 26AF-4ADF-B759-24B36E77C46B</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://boydj.cool/img/boy-dj-desert-2.JPG</image:loc>
+	<image:title>B83A48A1 C8A0-4E59-A984-97388397E56F 2.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://boydj.cool/img/000038%204.jpg</image:loc>
+	<image:title>DC8A89D3 BA5E-4DF2-8D17-902EA59EA679.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://boydj.cool/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://boydj.cool/img/boy-dj-desert-2.JPG</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://boydj.cool/contact.html</loc>
+	<lastmod>2024-08-19</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://boydj.cool/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://boydj.cool/img/A3C33E43-5DFC-46BB-A06C-CE6E6ED6A570.jpg</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
